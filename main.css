@@ -62,7 +62,7 @@ h1 {
 
 .loading:hover {
   color: inherit;
-  background: url("images/background.png") no-repeat center center fixed;
+  background: url("/images/background.png") no-repeat center center fixed;
   background-size: cover;
   background-position: center;
   -webkit-background-clip: text;
