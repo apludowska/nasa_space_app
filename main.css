@@ -55,6 +55,7 @@ h1 {
   font-size: 5rem;
 }
 
+
 .loading {
   transition: background-color 0.3s, color 0.3s;
 }
